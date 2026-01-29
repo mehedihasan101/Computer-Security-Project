@@ -104,7 +104,7 @@ JustiFi follows a **Defense-in-Depth** security model.
 
 
 ## 🚀 How to Run the Project (Local Setup)
--http://localhost/ComputerSecurityProject/login.php
+  http://localhost/ComputerSecurityProject/login.php
 
 ---
 
